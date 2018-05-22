@@ -14,7 +14,7 @@ $pw = convertto-securestring -AsPlainText -Force -String "Certific@te0217"
 
 $credentials = new-object -typename System.Management.Automation.PSCredential -argumentlist "kernel\sa.sharov",$pw
 
-$s = New-PSSession -ComputerName sharov
+$s = New-PSSession -ComputerName sharov 
 
 Invoke-Command -Session $s -Command {Stop-Service -Name "spooler"}
 
@@ -22,5 +22,6 @@ Invoke-Command -Session $s -Command {Remove-Item $Using:Dpath -Recurse}
 
 Copy-Item -ToSession $s -Path $spath -Destination $dpath -Recurse
 
-& $Runservice 
+#& $Runservice 
+Invoke-Command -Session $s -Command {Start-Service -Name "spooler"}
 
