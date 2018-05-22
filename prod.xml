@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeploymentData>
+   <ServerData
+   serverName="cms.digagro.com"
+   siteName = "Kentico"
+   userName="kernel"
+   userPWD="New_opportunity"
+   sessionPort="5986"
+   destinationPath="C:\kentico\dist" />   
+</DeploymentData>
