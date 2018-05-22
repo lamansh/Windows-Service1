@@ -25,3 +25,5 @@ Copy-Item -ToSession $s -Path $spath -Destination $dpath -Recurse
 #& $Runservice 
 Invoke-Command -Session $s -Command {Start-Service -Name "spooler"}
 
+Start-Process $Runservice -Wait
+exit 0
