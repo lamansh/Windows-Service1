@@ -1,0 +1,9 @@
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\bin\Debug\Preview.jpg
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\bin\Debug\icon.png
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\bin\Debug\License.txt
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\obj\Debug\WinService.VSIX.csproj.CoreCompileInputs.cache
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\obj\Debug\WindowsServicePlus.dll
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\obj\Debug\WindowsServicePlus.pdb
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\obj\Debug\extension.vsixmanifest
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\bin\Debug\WindowsServicePlus.vsix
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.VSIX\bin\Debug\extension.vsixmanifest

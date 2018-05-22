@@ -1,0 +1,6 @@
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Template\bin\Debug\ProjectTemplates\CSharp\1033\WinService.Template.zip
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Template\bin\Debug\WindowsServicePlus.dll.config
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Template\obj\Debug\WinService.Template.csproj.CoreCompileInputs.cache
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Template\obj\Debug\CSharp\1033\WinService.Template.zip
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Template\obj\Debug\WindowsServicePlus.dll
+D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Template\obj\Debug\WindowsServicePlus.pdb
