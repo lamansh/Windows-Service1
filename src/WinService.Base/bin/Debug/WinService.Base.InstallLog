@@ -1,0 +1,26 @@
+﻿Выполняется установка сборки 'D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.InstallLog
+   assemblypath = D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe.
+Выполняется фиксация сборки 'D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.InstallLog
+   assemblypath = D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.InstallLog
+   assemblypath = D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe.
+Выполняется фиксация сборки 'D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.InstallLog
+   assemblypath = D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\AZUR_D5033\Windows-Service-Plus-master\src\WinService.Base\bin\Debug\WinService.Base.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.

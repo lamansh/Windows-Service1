@@ -1,0 +1,13 @@
+2018-05-22 10:07:02,348 [1] INFO  Topshelf.Ninject.HostConfiguratorExtensions [(null)] - [Topshelf.Ninject] Integration Started in host.
+2018-05-22 10:07:02,509 [1] DEBUG Topshelf.Ninject.HostConfiguratorExtensions [(null)] - Ninject kernel instantiated with 1 modules.
+2018-05-22 10:07:02,515 [1] INFO  Topshelf.Ninject.HostConfiguratorExtensions [(null)] - [Topshelf.Ninject] Service configured to construct using Ninject.
+2018-05-22 10:07:02,589 [1] INFO  Topshelf.HostFactory [(null)] - Configuration Result:
+[Success] Name YourService
+[Success] DisplayName Your Service Name
+[Success] Description A .NET Windows Service.
+[Success] ServiceName YourService
+2018-05-22 10:07:02,594 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl [(null)] - Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000
+2018-05-22 10:07:02,710 [1] DEBUG Topshelf.Builders.RunBuilder [(null)] - Running as a console application, creating the console host.
+2018-05-22 10:07:02,721 [1] DEBUG Topshelf.Hosts.ConsoleRunHost [(null)] - Starting up as a console application
+2018-05-22 10:07:02,729 [1] INFO  WinService.Base.Service.WinService [(null)] - WinService Start command received.
+2018-05-22 10:07:02,738 [1] INFO  Topshelf.Hosts.ConsoleRunHost [(null)] - The YourService service is now running, press Control+C to exit.
