@@ -10,9 +10,9 @@ $Command = "\src\WinService.Base\bin\Debug\WinService.Base.exe"
 $Runservice = "$Spath" + "$Command"
 
 
-$pw = convertto-securestring -AsPlainText -Force -String "Certific@te0217"
+$pw = convertto-securestring -AsPlainText -Force -String ""
 
-$credentials = new-object -typename System.Management.Automation.PSCredential -argumentlist "kernel\sa.sharov",$pw
+$credentials = new-object -typename System.Management.Automation.PSCredential -argumentlist "",$pw
 
 $s = New-PSSession -ComputerName sharov 
 
